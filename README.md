@@ -8,7 +8,7 @@ This repository contains the solutions for the Module 1-3 Practical Questions. I
 2. **Clone the repository:**
 
     ```bash
-    git clone <your-repo-url>
+    git clone <https://github.com/Nshutitricia/WebTech_Assignment.git>
     ```
 
 3. **Run a specific question:**
